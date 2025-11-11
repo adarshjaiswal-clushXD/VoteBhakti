@@ -47,8 +47,8 @@ All data is stored on the blockchain, making the system **immutable** and **tran
 
 - **Network:** Celo Sepolia Testnet  
 - **Contract Address:** [`0xdcB4487099a5d5c91BAEF71cDCa3471eDA5Cf923`](https://celo-sepolia.blockscout.com/address/0xdcB4487099a5d5c91BAEF71cDCa3471eDA5Cf923)  
-- **Deployed by:** (Your Wallet Address)  
-- **Transaction Hash:** (Add from deployment)  
+- **Deployed by:** (0x7d0C6F2f177cAa4485bcF73F4218237272F32E3D)  
+- **Transaction Hash:** (0xe7a2186121bc8bff3e8241157383d1686663aa149a01f888c8d427e2afe63df2)  
 
 ---
 
@@ -81,8 +81,8 @@ Feel free to use, modify, and build upon it for learning or personal projects.
 
 ## 💬 Author
 
-Created with 💛 by (Your Name)  
-Twitter / GitHub: (Your Handle)
+Created with 💛 by (ClushXD)  
+Twitter / GitHub: (adarshjaiswal-clushXD)
 
 ---
 
