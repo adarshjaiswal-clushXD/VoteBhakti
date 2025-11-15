@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adarshjaiswal-clushXD/VoteBhakti/blob/main/assets/logo.png" width="200" />
+</p>
+
 # 🗳️ VoteBhakti – A Decentralized Voting Smart Contract
 
 > A simple blockchain-based voting system built using **Solidity** and deployed on the **Celo Sepolia Testnet**.
