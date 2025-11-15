@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarshjaiswal-clushXD/VoteBhakti/blob/main/assets/logo.png" width="200" />
+  <img src="https://github.com/adarshjaiswal-clushXD/VoteBhakti/blob/main/assets/logo.png" width="200" />
 </p>
 
 # 🗳️ VoteBhakti – A Decentralized Voting Smart Contract
